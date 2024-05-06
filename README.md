@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <body>
@@ -23,6 +22,7 @@
       <h3>What am I asking?</h3>
       <p>The question I will be asking for this data analysis is <strong>which county of Washington has the most Teslas?</strong></p>
       <p>For the data analysis I used Excels COUNTIFS Function to compare counties to Teslas. There were 194 different counties to chose but because 155 countys have less than 10 Teslas we will only include the top 20 counties in the bar graph <b>below</b>.</p>
+      
     </body>
   </head>
 </html>
