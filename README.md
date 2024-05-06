@@ -21,7 +21,9 @@
       <p>From this website I found a data set on the electric vehicle population in Washington. <a href="https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data">Here</a> is the landing page which contains the downloaded data and notes on the data.</p>
       <h3>What am I asking?</h3>
       <p>The question I will be asking for this data analysis is <strong>which county of Washington has the most Teslas?</strong></p>
-      <p>For the data analysis I used Excels COUNTIFS Function to compare counties to Teslas. There were 194 different counties to chose but because 155 countys have less than 10 Teslas we will only include the top 20 counties in the bar graph <b>below</b>.</p>
+      <p>For the data analysis I used Microsoft Excels COUNTIFS Function to compare counties to Teslas. There were 194 different counties to chose but because 155 countys have less than 10 Teslas we will only include the top 20 counties in the bar graph <em>below</em>.</p>
+      <img src="CS1030 Final Project Graph.png" alt="Graph of Teslas in Counties">
+      <p>From the graph above we can see that King county has the most Teslas in the state. This makes a lot of sense geographically because the capital Seattle is in that county.</p>
       
     </body>
   </head>
